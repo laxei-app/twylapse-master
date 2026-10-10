@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 10,
+  "revision": 11,
   "updated": "2026-10-10",
   "files": [
     {
@@ -20,6 +20,12 @@
       "size": 195,
       "sha256": "723fa535491900cb10b7ce82f7cd6333cf282d6dcb841600ed60db38540b33cd",
       "count": 3
+    },
+    {
+      "name": "map.json",
+      "size": 337,
+      "sha256": "7ea58e9419d6ac99b74b958c542498ea0bbf3f173dedc6e095f34a78cb970efd",
+      "count": 1
     }
   ]
 }
