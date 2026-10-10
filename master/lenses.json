@@ -2,6 +2,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF135mm F1.8 L IS USM",
     "f_min": 135,
     "f_max": 135,
@@ -14,6 +17,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF300mm F2.8 L IS USM Z",
     "f_min": 300,
     "f_max": 300,
@@ -26,6 +32,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF400mm F2.8 L IS USM",
     "f_min": 400,
     "f_max": 400,
@@ -38,6 +47,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF600mm F4 L IS USM",
     "f_min": 600,
     "f_max": 600,
@@ -50,6 +62,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF800mm F5.6 L IS USM",
     "f_min": 800,
     "f_max": 800,
@@ -62,6 +77,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF1200mm F8 L IS USM",
     "f_min": 1200,
     "f_max": 1200,
@@ -74,6 +92,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF600mm F11 IS STM",
     "f_min": 600,
     "f_max": 600,
@@ -86,6 +107,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF800mm F11 IS STM",
     "f_min": 800,
     "f_max": 800,
@@ -98,6 +122,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF24mm F1.8 MACRO IS STM",
     "f_min": 24,
     "f_max": 24,
@@ -110,6 +137,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF35mm F1.8 MACRO IS STM",
     "f_min": 35,
     "f_max": 35,
@@ -122,6 +152,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF85mm F2 MACRO IS STM",
     "f_min": 85,
     "f_max": 85,
@@ -134,6 +167,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF100mm F2.8 L MACRO IS USM",
     "f_min": 100,
     "f_max": 100,
@@ -146,6 +182,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF5.2mm F2.8 L DUAL FISHEYE",
     "f_min": 5.2,
     "f_max": 5.2,
@@ -158,6 +197,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF16mm F2.8 STM",
     "f_min": 16,
     "f_max": 16,
@@ -170,6 +212,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF28mm F2.8 STM",
     "f_min": 28,
     "f_max": 28,
@@ -182,6 +227,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF50mm F1.2 L USM",
     "f_min": 50,
     "f_max": 50,
@@ -194,6 +242,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF50mm F1.8 STM",
     "f_min": 50,
     "f_max": 50,
@@ -206,6 +257,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF85mm F1.2 L USM",
     "f_min": 85,
     "f_max": 85,
@@ -218,6 +272,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF85mm F1.2 L USM DS",
     "f_min": 85,
     "f_max": 85,
@@ -230,6 +287,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF15-35mm F2.8 L IS USM",
     "f_min": 15,
     "f_max": 35,
@@ -242,6 +302,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF24-70mm F2.8 L IS USM",
     "f_min": 24,
     "f_max": 70,
@@ -254,6 +317,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF70-200mm F2.8 L IS USM",
     "f_min": 70,
     "f_max": 200,
@@ -266,6 +332,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF14-35mm F4 L IS USM",
     "f_min": 14,
     "f_max": 35,
@@ -278,6 +347,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF24-105mm F4 L IS USM",
     "f_min": 24,
     "f_max": 105,
@@ -290,6 +362,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF70-200mm F4 L IS USM",
     "f_min": 70,
     "f_max": 200,
@@ -302,6 +377,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF24-240mm F4-6.3 IS USM",
     "f_min": 24,
     "f_max": 240,
@@ -314,6 +392,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF100-400mm F5.6-8 IS USM",
     "f_min": 100,
     "f_max": 400,
@@ -326,6 +407,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF100-500mm F4.5-7.1 L IS USM",
     "f_min": 100,
     "f_max": 500,
@@ -338,6 +422,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF200-800mm F6.3-9 IS USM",
     "f_min": 200,
     "f_max": 800,
@@ -350,6 +437,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "TS-E17mm F4L",
     "f_min": 17,
     "f_max": 17,
@@ -362,6 +452,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "TS-E24mm F3.5L II",
     "f_min": 24,
     "f_max": 24,
@@ -374,6 +467,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "TS-E50mm F2.8L Macro",
     "f_min": 50,
     "f_max": 50,
@@ -386,6 +482,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "TS-E90mm F2.8L Macro",
     "f_min": 90,
     "f_max": 90,
@@ -398,6 +497,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "TS-E135mm F4L Macro",
     "f_min": 135,
     "f_max": 135,
@@ -410,6 +512,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF8-15mm F4L フィッシュアイ USM",
     "f_min": 8,
     "f_max": 15,
@@ -422,6 +527,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF100mm F2.8L マクロ IS USM",
     "f_min": 100,
     "f_max": 100,
@@ -434,6 +542,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "MP-E65mm F2.8 1-5× マクロフォト",
     "f_min": 65,
     "f_max": 65,
@@ -446,6 +557,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF135mm F2L USM",
     "f_min": 135,
     "f_max": 135,
@@ -458,6 +572,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF200mm F2L IS USM",
     "f_min": 200,
     "f_max": 200,
@@ -470,6 +587,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF300mm F2.8L IS II USM",
     "f_min": 300,
     "f_max": 300,
@@ -482,6 +602,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF400mm F2.8L IS III USM",
     "f_min": 400,
     "f_max": 400,
@@ -494,6 +617,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF400mm F4 DO IS II USM",
     "f_min": 400,
     "f_max": 400,
@@ -506,6 +632,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF500mm F4L IS II USM",
     "f_min": 500,
     "f_max": 500,
@@ -518,6 +647,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF600mm F4L IS III USM",
     "f_min": 600,
     "f_max": 600,
@@ -530,6 +662,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF800mm F5.6L IS USM",
     "f_min": 800,
     "f_max": 800,
@@ -542,6 +677,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF11-24mm F4L USM",
     "f_min": 11,
     "f_max": 24,
@@ -554,6 +692,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF16-35mm F2.8L III USM",
     "f_min": 16,
     "f_max": 35,
@@ -566,6 +707,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF24-70mm F2.8L II USM",
     "f_min": 24,
     "f_max": 70,
@@ -578,6 +722,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF70-200mm F2.8L IS III USM",
     "f_min": 70,
     "f_max": 200,
@@ -590,6 +737,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF24-105mm F4L IS II USM",
     "f_min": 24,
     "f_max": 105,
@@ -602,6 +752,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF50mm F1.2L USM",
     "f_min": 50,
     "f_max": 50,
@@ -614,6 +767,9 @@
   {
     "manufacture": "Canon",
     "mount": "EF",
+    "mounts": [
+      "EF"
+    ],
     "name": "EF85mm F1.4L IS USM",
     "f_min": 85,
     "f_max": 85,
@@ -626,6 +782,10 @@
   {
     "manufacture": "Sigma",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "12mm F1.4 DC DN | Contemporary",
     "f_min": 12,
     "f_max": 12,
@@ -638,6 +798,10 @@
   {
     "manufacture": "Sigma",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "16mm F1.4 DC DN | Contemporary",
     "f_min": 16,
     "f_max": 16,
@@ -650,6 +814,10 @@
   {
     "manufacture": "Sigma",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "23mm F1.4 DC DN | Contemporary",
     "f_min": 23,
     "f_max": 23,
@@ -662,6 +830,10 @@
   {
     "manufacture": "Sigma",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "30mm F1.4 DC DN | Contemporary",
     "f_min": 30,
     "f_max": 30,
@@ -674,6 +846,10 @@
   {
     "manufacture": "Sigma",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "56mm F1.4 DC DN | Contemporary",
     "f_min": 56,
     "f_max": 56,
@@ -686,6 +862,10 @@
   {
     "manufacture": "Sigma",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "10-18mm F2.8 DC DN | Contemporary",
     "f_min": 10,
     "f_max": 18,
@@ -698,6 +878,10 @@
   {
     "manufacture": "Sigma",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "18-50mm F2.8 DC DN | Contemporary",
     "f_min": 18,
     "f_max": 50,
@@ -710,6 +894,10 @@
   {
     "manufacture": "Tamron",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "11-20mm F/2.8 Di III-A RXD (Model B060)",
     "f_min": 11,
     "f_max": 20,
@@ -721,7 +909,10 @@
   },
   {
     "manufacture": "Tamron",
-    "mount": "RF",
+    "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "17-50mm F/4 Di III VXD (Model A068)",
     "f_min": 17,
     "f_max": 50,
@@ -733,7 +924,10 @@
   },
   {
     "manufacture": "Tamron",
-    "mount": "RF",
+    "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "150-500mm F/5-6.7 Di III VC VXD (Model A057)",
     "f_min": 150,
     "f_max": 500,
@@ -746,6 +940,9 @@
   {
     "manufacture": "Cosina",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Voigtlander NOKTON 50mm F1 Aspherical",
     "f_min": 50,
     "f_max": 50,
@@ -758,6 +955,9 @@
   {
     "manufacture": "Cosina",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Voigtlander NOKTON 40mm F1.2 Aspherical",
     "f_min": 40,
     "f_max": 40,
@@ -770,6 +970,9 @@
   {
     "manufacture": "Cosina",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Voigtlander MACRO APO-LANTHAR 65mm F2 Aspherical",
     "f_min": 65,
     "f_max": 65,
@@ -782,6 +985,9 @@
   {
     "manufacture": "Cosina",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Voigtlander NOKTON 75mm F1.5 Aspherical",
     "f_min": 75,
     "f_max": 75,
@@ -794,6 +1000,9 @@
   {
     "manufacture": "Samyang",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "AF 14mm F2.8 RF",
     "f_min": 14,
     "f_max": 14,
@@ -806,6 +1015,9 @@
   {
     "manufacture": "Samyang",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "AF 85mm F1.4 RF",
     "f_min": 85,
     "f_max": 85,
@@ -818,6 +1030,9 @@
   {
     "manufacture": "Samyang",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MF 14mm F2.8 RF",
     "f_min": 14,
     "f_max": 14,
@@ -830,6 +1045,9 @@
   {
     "manufacture": "Samyang",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MF 85mm F1.4 RF",
     "f_min": 85,
     "f_max": 85,
@@ -842,6 +1060,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "10mm f/4 Cookie",
     "f_min": 10,
     "f_max": 10,
@@ -854,6 +1076,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "12mm f/2.8 Zero-D",
     "f_min": 12,
     "f_max": 12,
@@ -866,6 +1092,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "15mm f/2 Zero-D",
     "f_min": 15,
     "f_max": 15,
@@ -878,6 +1108,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "25mm f/2.8 2.5-5X Ultra Macro",
     "f_min": 25,
     "f_max": 25,
@@ -890,6 +1124,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "100mm f/2.8 2X Ultra Macro APO",
     "f_min": 100,
     "f_max": 100,
@@ -902,7 +1140,11 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
-    "name": "85mm f/5.6 2x Ultra Macro APO",
+    "mounts": [
+      "RF",
+      "E"
+    ],
+    "name": "Mini 85mm f/5.6 2x Ultra Macro APO",
     "f_min": 85,
     "f_max": 85,
     "fnum_min_wide": 5.6,
@@ -914,6 +1156,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "24mm f/14 2X Macro Probe",
     "f_min": 24,
     "f_max": 24,
@@ -926,6 +1172,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "20mm f/4 Zero-D Shift",
     "f_min": 20,
     "f_max": 20,
@@ -938,6 +1188,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "15mm f/4.5 Zero-D Shift",
     "f_min": 15,
     "f_max": 15,
@@ -950,6 +1204,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "11mm f/2.8 Fisheye ED",
     "f_min": 11,
     "f_max": 11,
@@ -962,6 +1219,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "21mm f/1.5",
     "f_min": 21,
     "f_max": 21,
@@ -974,6 +1234,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "32mm f/2.8 AF",
     "f_min": 32,
     "f_max": 32,
@@ -986,6 +1249,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "50mm f/1.2",
     "f_min": 50,
     "f_max": 50,
@@ -998,6 +1264,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "50mm f/2.0",
     "f_min": 50,
     "f_max": 50,
@@ -1010,6 +1279,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "100mm f/2.8 Bubble Bokeh",
     "f_min": 100,
     "f_max": 100,
@@ -1022,6 +1294,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "10mm f/2.8 Fisheye",
     "f_min": 10,
     "f_max": 10,
@@ -1034,6 +1309,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "15mm f/4.0 Wide-Angle",
     "f_min": 15,
     "f_max": 15,
@@ -1046,6 +1324,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "35mm f/1.4 Full Frame",
     "f_min": 35,
     "f_max": 35,
@@ -1058,6 +1339,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "50mm f/1.05",
     "f_min": 50,
     "f_max": 50,
@@ -1070,6 +1354,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "60mm f/2.8 II Macro",
     "f_min": 60,
     "f_max": 60,
@@ -1082,6 +1369,9 @@
   {
     "manufacture": "Viltrox",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "AF 85mm F1.8 RF II",
     "f_min": 85,
     "f_max": 85,
@@ -1094,6 +1384,9 @@
   {
     "manufacture": "Viltrox",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "AF 24mm F1.8 RF",
     "f_min": 24,
     "f_max": 24,
@@ -1106,6 +1399,9 @@
   {
     "manufacture": "Viltrox",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "AF 35mm F1.8 RF",
     "f_min": 35,
     "f_max": 35,
@@ -1118,6 +1414,9 @@
   {
     "manufacture": "Viltrox",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "AF 50mm F1.8 RF",
     "f_min": 50,
     "f_max": 50,
@@ -1130,6 +1429,9 @@
   {
     "manufacture": "Meike",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MK-50mm f/1.7",
     "f_min": 50,
     "f_max": 50,
@@ -1142,6 +1444,9 @@
   {
     "manufacture": "Meike",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MK-85mm f/1.8 AF",
     "f_min": 85,
     "f_max": 85,
@@ -1154,6 +1459,9 @@
   {
     "manufacture": "Meike",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MK-60mm f/2.8 Macro",
     "f_min": 60,
     "f_max": 60,
@@ -1166,6 +1474,9 @@
   {
     "manufacture": "Yongnuo",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "YN85mm F1.8R DF DSM",
     "f_min": 85,
     "f_max": 85,
@@ -1178,6 +1489,9 @@
   {
     "manufacture": "Yongnuo",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "YN35mm F2R DF DSM",
     "f_min": 35,
     "f_max": 35,
@@ -1190,6 +1504,9 @@
   {
     "manufacture": "Kamlan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "50mm f/1.1 II",
     "f_min": 50,
     "f_max": 50,
@@ -1202,6 +1519,9 @@
   {
     "manufacture": "AstrHori",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "85mm f/2.8 Tilt Macro",
     "f_min": 85,
     "f_max": 85,
@@ -1214,6 +1534,9 @@
   {
     "manufacture": "AstrHori",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "50mm f/1.4 Tilt",
     "f_min": 50,
     "f_max": 50,
@@ -1226,6 +1549,9 @@
   {
     "manufacture": "AstrHori",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "12mm f/2.8 Fisheye",
     "f_min": 12,
     "f_max": 12,
@@ -1238,6 +1564,9 @@
   {
     "manufacture": "Meyer Optik Gorlitz",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Trioplan 50mm f/2.8 II",
     "f_min": 50,
     "f_max": 50,
@@ -1250,6 +1579,9 @@
   {
     "manufacture": "Meyer Optik Gorlitz",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Primoplan 75mm f/1.9 II",
     "f_min": 75,
     "f_max": 75,
@@ -1262,6 +1594,9 @@
   {
     "manufacture": "Lensbaby",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Velvet 56",
     "f_min": 56,
     "f_max": 56,
@@ -1274,6 +1609,9 @@
   {
     "manufacture": "Lensbaby",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Velvet 85",
     "f_min": 85,
     "f_max": 85,
@@ -1286,6 +1624,9 @@
   {
     "manufacture": "Lensbaby",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Composer Pro II with Sweet 50",
     "f_min": 50,
     "f_max": 50,
@@ -1297,7 +1638,12 @@
   },
   {
     "manufacture": "Samyang",
-    "mount": "RF",
+    "mount": "E",
+    "mounts": [
+      "E",
+      "EF",
+      "EF-M"
+    ],
     "name": "MF 85mm F1.4 MK2",
     "f_min": 85,
     "f_max": 85,
@@ -1309,7 +1655,12 @@
   },
   {
     "manufacture": "Samyang",
-    "mount": "RF",
+    "mount": "E",
+    "mounts": [
+      "E",
+      "EF",
+      "EF-M"
+    ],
     "name": "MF 14mm F2.8 MK2",
     "f_min": 14,
     "f_max": 14,
@@ -1321,8 +1672,11 @@
   },
   {
     "manufacture": "Laowa",
-    "mount": "RF",
-    "name": "9mm f/5.6 Zoom-Shift (FF RL)",
+    "mount": "E",
+    "mounts": [
+      "E"
+    ],
+    "name": "9mm f/5.6 FF RL",
     "f_min": 9,
     "f_max": 9,
     "fnum_min_wide": 5.6,
@@ -1334,6 +1688,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "11mm f/4.5 FF RL",
     "f_min": 11,
     "f_max": 11,
@@ -1346,6 +1704,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "14mm f/4 FF RL Zero-D",
     "f_min": 14,
     "f_max": 14,
@@ -1358,6 +1720,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "58mm f/2.8 2X Ultra Macro APO",
     "f_min": 58,
     "f_max": 58,
@@ -1370,6 +1736,10 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E"
+    ],
     "name": "90mm f/2.8 2X Ultra Macro APO",
     "f_min": 90,
     "f_max": 90,
@@ -1382,6 +1752,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "7.5mm f/2 Fisheye (APS-C)",
     "f_min": 7.5,
     "f_max": 7.5,
@@ -1394,6 +1767,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "17mm f/1.4 (APS-C)",
     "f_min": 17,
     "f_max": 17,
@@ -1406,6 +1782,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "23mm f/1.4 (APS-C)",
     "f_min": 23,
     "f_max": 23,
@@ -1418,6 +1797,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "25mm f/2 (APS-C)",
     "f_min": 25,
     "f_max": 25,
@@ -1430,6 +1812,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "35mm f/1.4 (APS-C)",
     "f_min": 35,
     "f_max": 35,
@@ -1442,6 +1827,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "40mm f/2.8 Macro (APS-C)",
     "f_min": 40,
     "f_max": 40,
@@ -1454,6 +1842,9 @@
   {
     "manufacture": "TTArtisan",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "50mm f/0.95 (APS-C)",
     "f_min": 50,
     "f_max": 50,
@@ -1466,6 +1857,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "4mm f/2.8 Circular Fisheye (APS-C)",
     "f_min": 4,
     "f_max": 4,
@@ -1478,6 +1872,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "7.5mm f/2.8 II Fisheye (APS-C)",
     "f_min": 7.5,
     "f_max": 7.5,
@@ -1490,6 +1887,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "12mm f/2.8 II (APS-C)",
     "f_min": 12,
     "f_max": 12,
@@ -1502,6 +1902,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "18mm f/6.3 UFO Lens Cap (APS-C)",
     "f_min": 18,
     "f_max": 18,
@@ -1514,6 +1917,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "25mm f/1.8 (APS-C)",
     "f_min": 25,
     "f_max": 25,
@@ -1526,6 +1932,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "35mm f/0.95 (APS-C)",
     "f_min": 35,
     "f_max": 35,
@@ -1538,6 +1947,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "35mm f/1.2 II (APS-C)",
     "f_min": 35,
     "f_max": 35,
@@ -1550,6 +1962,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "50mm f/0.95 (APS-C)",
     "f_min": 50,
     "f_max": 50,
@@ -1562,6 +1977,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "50mm f/1.8 (APS-C)",
     "f_min": 50,
     "f_max": 50,
@@ -1574,6 +1992,9 @@
   {
     "manufacture": "7Artisans",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "55mm f/1.4 II (APS-C)",
     "f_min": 55,
     "f_max": 55,
@@ -1586,6 +2007,9 @@
   {
     "manufacture": "Meike",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MK-25mm f/1.8 (APS-C)",
     "f_min": 25,
     "f_max": 25,
@@ -1598,6 +2022,9 @@
   {
     "manufacture": "Meike",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MK-35mm f/1.4 (APS-C)",
     "f_min": 35,
     "f_max": 35,
@@ -1610,6 +2037,9 @@
   {
     "manufacture": "Meike",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MK-35mm f/1.7 (APS-C)",
     "f_min": 35,
     "f_max": 35,
@@ -1622,6 +2052,9 @@
   {
     "manufacture": "Meike",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MK-50mm f/2.0 (APS-C)",
     "f_min": 50,
     "f_max": 50,
@@ -1634,6 +2067,9 @@
   {
     "manufacture": "Meike",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "MK-6.5mm f/2.0 Circular Fisheye (APS-C)",
     "f_min": 6.5,
     "f_max": 6.5,
@@ -1645,7 +2081,11 @@
   },
   {
     "manufacture": "Samyang",
-    "mount": "RF",
+    "mount": "E",
+    "mounts": [
+      "E",
+      "EF-M"
+    ],
     "name": "MF 12mm F2.0 APS-C",
     "f_min": 12,
     "f_max": 12,
@@ -1657,7 +2097,11 @@
   },
   {
     "manufacture": "Samyang",
-    "mount": "RF",
+    "mount": "E",
+    "mounts": [
+      "E",
+      "EF-M"
+    ],
     "name": "MF 85mm F1.8 ED UMC CS (APS-C)",
     "f_min": 85,
     "f_max": 85,
@@ -1670,7 +2114,12 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
-    "name": "4mm f/2.8 Circular Fisheye (APS-C)",
+    "mounts": [
+      "RF",
+      "E",
+      "EF-M"
+    ],
+    "name": "4mm f/2.8 Fisheye (APS-C)",
     "f_min": 4,
     "f_max": 4,
     "fnum_min_wide": 2.8,
@@ -1682,6 +2131,11 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E",
+      "EF-M"
+    ],
     "name": "9mm f/2.8 Zero-D (APS-C)",
     "f_min": 9,
     "f_max": 9,
@@ -1694,6 +2148,11 @@
   {
     "manufacture": "Laowa",
     "mount": "RF",
+    "mounts": [
+      "RF",
+      "E",
+      "EF-M"
+    ],
     "name": "65mm f/2.8 2X Ultra Macro APO (APS-C)",
     "f_min": 65,
     "f_max": 65,
@@ -1706,6 +2165,9 @@
   {
     "manufacture": "Brightin Star",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "10mm f/5.6 Fisheye (APS-C)",
     "f_min": 10,
     "f_max": 10,
@@ -1718,6 +2180,9 @@
   {
     "manufacture": "Brightin Star",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "35mm f/0.95 (APS-C)",
     "f_min": 35,
     "f_max": 35,
@@ -1730,6 +2195,9 @@
   {
     "manufacture": "Brightin Star",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "50mm f/0.95 (APS-C)",
     "f_min": 50,
     "f_max": 50,
@@ -1742,6 +2210,9 @@
   {
     "manufacture": "Pergear",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "10mm f/8 Pancake (APS-C)",
     "f_min": 10,
     "f_max": 10,
@@ -1754,6 +2225,9 @@
   {
     "manufacture": "Pergear",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "25mm f/1.8 (APS-C)",
     "f_min": 25,
     "f_max": 25,
@@ -1766,6 +2240,9 @@
   {
     "manufacture": "Pergear",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "35mm f/1.2 (APS-C)",
     "f_min": 35,
     "f_max": 35,
@@ -1778,6 +2255,9 @@
   {
     "manufacture": "Pergear",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "60mm f/2.8 Macro (APS-C)",
     "f_min": 60,
     "f_max": 60,
@@ -1790,6 +2270,9 @@
   {
     "manufacture": "Kipon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "Ibelux 40mm f/0.85 Mark III (APS-C)",
     "f_min": 40,
     "f_max": 40,
@@ -1802,6 +2285,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF10-20mm F4 L IS STM",
     "f_min": 10,
     "f_max": 20,
@@ -1814,6 +2300,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF15-30mm F4.5-6.3 IS STM",
     "f_min": 15,
     "f_max": 30,
@@ -1826,6 +2315,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF16-28mm F2.8 IS STM",
     "f_min": 16,
     "f_max": 28,
@@ -1838,6 +2330,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF20mm F1.4 L VCM",
     "f_min": 20,
     "f_max": 20,
@@ -1850,6 +2345,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF24mm F1.4 L VCM",
     "f_min": 24,
     "f_max": 24,
@@ -1862,6 +2360,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF35mm F1.4 L VCM",
     "f_min": 35,
     "f_max": 35,
@@ -1874,6 +2375,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF50mm F1.4 L VCM",
     "f_min": 50,
     "f_max": 50,
@@ -1886,6 +2390,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF85mm F1.4 L VCM",
     "f_min": 85,
     "f_max": 85,
@@ -1898,6 +2405,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF24-50mm F4.5-6.3 IS STM",
     "f_min": 24,
     "f_max": 50,
@@ -1910,6 +2420,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF24-105mm F2.8 L IS USM Z",
     "f_min": 24,
     "f_max": 105,
@@ -1922,6 +2435,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF24-105mm F4-7.1 IS STM",
     "f_min": 24,
     "f_max": 105,
@@ -1934,6 +2450,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF28-70mm F2 L USM",
     "f_min": 28,
     "f_max": 70,
@@ -1946,6 +2465,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF28-70mm F2.8 IS STM",
     "f_min": 28,
     "f_max": 70,
@@ -1958,6 +2480,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF70-200mm F2.8 L IS USM Z",
     "f_min": 70,
     "f_max": 200,
@@ -1970,6 +2495,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF75-300mm F4-5.6",
     "f_min": 75,
     "f_max": 300,
@@ -1982,6 +2510,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF100-300mm F2.8 L IS USM",
     "f_min": 100,
     "f_max": 300,
@@ -1994,6 +2525,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF500mm F4 L IS USM",
     "f_min": 500,
     "f_max": 500,
@@ -2006,6 +2540,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF-S3.9mm F3.5 STM DUAL FISHEYE",
     "f_min": 3.9,
     "f_max": 3.9,
@@ -2018,6 +2555,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF-S10-18mm F4.5-6.3 IS STM",
     "f_min": 10,
     "f_max": 18,
@@ -2030,6 +2570,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF-S14-30mm F4-6.3 IS STM PZ",
     "f_min": 14,
     "f_max": 30,
@@ -2042,6 +2585,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF-S18-45mm F4.5-6.3 IS STM",
     "f_min": 18,
     "f_max": 45,
@@ -2054,6 +2600,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF-S18-150mm F3.5-6.3 IS STM",
     "f_min": 18,
     "f_max": 150,
@@ -2066,6 +2615,9 @@
   {
     "manufacture": "Canon",
     "mount": "RF",
+    "mounts": [
+      "RF"
+    ],
     "name": "RF-S55-210mm F5-7.1 IS STM",
     "f_min": 55,
     "f_max": 210,
@@ -2078,6 +2630,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 14mm F1.8 GM",
     "f_min": 14,
     "f_max": 14,
@@ -2090,6 +2645,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 20mm F1.8 G",
     "f_min": 20,
     "f_max": 20,
@@ -2102,6 +2660,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 24mm F1.4 GM",
     "f_min": 24,
     "f_max": 24,
@@ -2114,6 +2675,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 24mm F2.8 G",
     "f_min": 24,
     "f_max": 24,
@@ -2126,6 +2690,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 28mm F2",
     "f_min": 28,
     "f_max": 28,
@@ -2138,6 +2705,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 35mm F1.4 GM",
     "f_min": 35,
     "f_max": 35,
@@ -2150,6 +2720,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 35mm F1.8",
     "f_min": 35,
     "f_max": 35,
@@ -2162,6 +2735,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 40mm F2.5 G",
     "f_min": 40,
     "f_max": 40,
@@ -2174,6 +2750,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 50mm F1.2 GM",
     "f_min": 50,
     "f_max": 50,
@@ -2186,6 +2765,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 50mm F1.4 GM",
     "f_min": 50,
     "f_max": 50,
@@ -2198,6 +2780,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 50mm F1.8",
     "f_min": 50,
     "f_max": 50,
@@ -2210,6 +2795,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 50mm F2.5 G",
     "f_min": 50,
     "f_max": 50,
@@ -2222,6 +2810,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 85mm F1.4 GM",
     "f_min": 85,
     "f_max": 85,
@@ -2234,6 +2825,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 85mm F1.4 GM II",
     "f_min": 85,
     "f_max": 85,
@@ -2246,6 +2840,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 85mm F1.8",
     "f_min": 85,
     "f_max": 85,
@@ -2258,6 +2855,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 90mm F2.8 Macro G OSS",
     "f_min": 90,
     "f_max": 90,
@@ -2270,6 +2870,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 100mm F2.8 STF GM OSS",
     "f_min": 100,
     "f_max": 100,
@@ -2282,6 +2885,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 135mm F1.8 GM",
     "f_min": 135,
     "f_max": 135,
@@ -2294,6 +2900,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 300mm F2.8 GM OSS",
     "f_min": 300,
     "f_max": 300,
@@ -2306,6 +2915,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 400mm F2.8 GM OSS",
     "f_min": 400,
     "f_max": 400,
@@ -2318,6 +2930,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 600mm F4 GM OSS",
     "f_min": 600,
     "f_max": 600,
@@ -2330,6 +2945,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 12-24mm F2.8 GM",
     "f_min": 12,
     "f_max": 24,
@@ -2342,6 +2960,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 12-24mm F4 G",
     "f_min": 12,
     "f_max": 24,
@@ -2354,6 +2975,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 16-25mm F2.8 G",
     "f_min": 16,
     "f_max": 25,
@@ -2366,6 +2990,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 16-35mm F2.8 GM",
     "f_min": 16,
     "f_max": 35,
@@ -2378,6 +3005,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 16-35mm F2.8 GM II",
     "f_min": 16,
     "f_max": 35,
@@ -2390,6 +3020,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE PZ 16-35mm F4 G",
     "f_min": 16,
     "f_max": 35,
@@ -2402,6 +3035,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 20-70mm F4 G",
     "f_min": 20,
     "f_max": 70,
@@ -2414,6 +3050,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 24-50mm F2.8 G",
     "f_min": 24,
     "f_max": 50,
@@ -2426,6 +3065,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 24-70mm F2.8 GM",
     "f_min": 24,
     "f_max": 70,
@@ -2438,6 +3080,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 24-70mm F2.8 GM II",
     "f_min": 24,
     "f_max": 70,
@@ -2450,6 +3095,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 24-105mm F4 G OSS",
     "f_min": 24,
     "f_max": 105,
@@ -2462,6 +3110,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 28-60mm F4-5.6",
     "f_min": 28,
     "f_max": 60,
@@ -2474,6 +3125,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 28-70mm F3.5-5.6 OSS",
     "f_min": 28,
     "f_max": 70,
@@ -2486,6 +3140,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 28-70mm F2 GM",
     "f_min": 28,
     "f_max": 70,
@@ -2498,6 +3155,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 70-200mm F2.8 GM OSS",
     "f_min": 70,
     "f_max": 200,
@@ -2510,6 +3170,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 70-200mm F2.8 GM OSS II",
     "f_min": 70,
     "f_max": 200,
@@ -2522,6 +3185,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 70-200mm F4 G OSS",
     "f_min": 70,
     "f_max": 200,
@@ -2534,6 +3200,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 70-200mm F4 Macro G OSS II",
     "f_min": 70,
     "f_max": 200,
@@ -2546,6 +3215,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 70-300mm F4.5-5.6 G OSS",
     "f_min": 70,
     "f_max": 300,
@@ -2558,6 +3230,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 100-400mm F4.5-5.6 GM OSS",
     "f_min": 100,
     "f_max": 400,
@@ -2570,6 +3245,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 200-600mm F5.6-6.3 G OSS",
     "f_min": 200,
     "f_max": 600,
@@ -2582,6 +3260,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "FE 400-800mm F6.3-8 G OSS",
     "f_min": 400,
     "f_max": 800,
@@ -2594,6 +3275,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 11mm F1.8",
     "f_min": 11,
     "f_max": 11,
@@ -2606,6 +3290,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 15mm F1.4 G",
     "f_min": 15,
     "f_max": 15,
@@ -2618,6 +3305,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 16mm F2.8",
     "f_min": 16,
     "f_max": 16,
@@ -2630,6 +3320,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 20mm F2.8",
     "f_min": 20,
     "f_max": 20,
@@ -2642,6 +3335,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 30mm F3.5 Macro",
     "f_min": 30,
     "f_max": 30,
@@ -2654,6 +3350,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 35mm F1.8 OSS",
     "f_min": 35,
     "f_max": 35,
@@ -2666,6 +3365,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 50mm F1.8 OSS",
     "f_min": 50,
     "f_max": 50,
@@ -2678,6 +3380,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E PZ 10-20mm F4 G",
     "f_min": 10,
     "f_max": 20,
@@ -2690,6 +3395,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 10-18mm F4 OSS",
     "f_min": 10,
     "f_max": 18,
@@ -2702,6 +3410,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E PZ 16-50mm F3.5-5.6 OSS",
     "f_min": 16,
     "f_max": 50,
@@ -2714,6 +3425,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E PZ 16-50mm F3.5-5.6 OSS II",
     "f_min": 16,
     "f_max": 50,
@@ -2726,6 +3440,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 16-55mm F2.8 G",
     "f_min": 16,
     "f_max": 55,
@@ -2738,6 +3455,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 18-135mm F3.5-5.6 OSS",
     "f_min": 18,
     "f_max": 135,
@@ -2750,6 +3470,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E PZ 18-105mm F4 G OSS",
     "f_min": 18,
     "f_max": 105,
@@ -2762,6 +3485,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 55-210mm F4.5-6.3 OSS",
     "f_min": 55,
     "f_max": 210,
@@ -2774,6 +3500,9 @@
   {
     "manufacture": "Sony",
     "mount": "E",
+    "mounts": [
+      "E"
+    ],
     "name": "E 70-350mm F4.5-6.3 G OSS",
     "f_min": 70,
     "f_max": 350,
