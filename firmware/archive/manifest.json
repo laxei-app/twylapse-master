@@ -4,20 +4,20 @@
     {
       "id": "stick-s3",
       "name": "M5StickS3",
-      "version": "0.3.1",
+      "version": "0.4.159",
       "build": "release",
-      "file": "tlp-edge-stick-s3-0.3.1-relink.zip",
-      "size": 39027611,
-      "sha256": "98122f4996f3b259be60e8784228d43f1fe1bafa2cb09da0e5889e297966cffd"
+      "file": "tlp-edge-stick-s3-0.4.159-relink.zip",
+      "size": 39318689,
+      "sha256": "5889f05c40b698872e02cd3f5daba1714fb4cdfc1f8eb5e1d1da8591356ab2a8"
     },
     {
       "id": "core-s3",
       "name": "M5Stack CoreS3",
-      "version": "0.3.1",
+      "version": "0.4.159",
       "build": "release",
-      "file": "tlp-edge-core-s3-0.3.1-relink.zip",
-      "size": 39011739,
-      "sha256": "6c765d9bd6a4a48ae1571473bdb3939688f7d73fd9c03776a45b509e940464a1"
+      "file": "tlp-edge-core-s3-0.4.159-relink.zip",
+      "size": 39304048,
+      "sha256": "9d0e9e50e0d0fedb912dae72846f088ec4c53a4415ff46ce583199535f364ea5"
     }
   ]
 }
