@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 11,
-  "updated": "2026-10-10",
+  "revision": 12,
+  "updated": "2026-10-22",
   "files": [
     {
       "name": "cameras.json",
@@ -26,6 +26,12 @@
       "size": 337,
       "sha256": "7ea58e9419d6ac99b74b958c542498ea0bbf3f173dedc6e095f34a78cb970efd",
       "count": 1
+    },
+    {
+      "name": "tzplaces.json",
+      "size": 19898,
+      "sha256": "aa066c123c44f275dc01ad972f80cf6b6526a574025910cacfb967f99998c4b3",
+      "count": 418
     }
   ]
 }
