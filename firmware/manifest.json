@@ -1,30 +1,30 @@
 {
   "schema": 1,
-  "updated": "2026-10-22",
+  "updated": "2026-11-10",
   "edge": [
     {
       "id": "stick-s3",
       "name": "M5StickS3",
       "chip": "esp32s3",
       "flashSize": "8MB",
-      "version": "0.4.159",
+      "version": "0.5.150",
       "build": "release",
       "file": "tlp-edge-stick-s3.bin",
       "offset": 0,
-      "size": 2472112,
-      "sha256": "aa45c4ed8d136c57fd0a42c3f1a9eddf2ac395084e898a34ded236b29d611675"
+      "size": 2685248,
+      "sha256": "1f5a1c738215c36b831aa61d5ec329dec192804ef769ecaaec6193f52024894b"
     },
     {
       "id": "core-s3",
       "name": "M5Stack CoreS3",
       "chip": "esp32s3",
       "flashSize": "16MB",
-      "version": "0.4.159",
+      "version": "0.5.150",
       "build": "release",
       "file": "tlp-edge-core-s3.bin",
       "offset": 0,
-      "size": 2430880,
-      "sha256": "2c7ebf24eeece5ef6aa0596f5ff7197cefc162acb5182cc9617446d46282e7fe"
+      "size": 2737056,
+      "sha256": "c8ba598ab122228bc355f650c0b65217fb4eb62133f86048b36a9547026584b3"
     }
   ]
 }
