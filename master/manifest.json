@@ -1,12 +1,12 @@
 {
-  "schema": 1,
-  "revision": 12,
-  "updated": "2026-10-22",
+  "schema": 2,
+  "revision": 15,
+  "updated": "2026-11-10",
   "files": [
     {
       "name": "cameras.json",
-      "size": 40658,
-      "sha256": "85098a007eec2290a17f221ce0e91f3da5e02bd8909bd83f7cc1787ebd69fed1",
+      "size": 41306,
+      "sha256": "1db65b948037cd00815e7838cf153abb55ed3a091b4383a6cb71b53976f9f23c",
       "count": 38
     },
     {
@@ -28,10 +28,10 @@
       "count": 1
     },
     {
-      "name": "tzplaces.json",
-      "size": 19898,
-      "sha256": "aa066c123c44f275dc01ad972f80cf6b6526a574025910cacfb967f99998c4b3",
-      "count": 418
+      "name": "places.json",
+      "size": 36044,
+      "sha256": "5b5571d6e7042560093e6e6d3903bc3db2fcaba9c84edc56c1dc47f176738542",
+      "count": 210
     }
   ]
 }
